@@ -24,4 +24,5 @@
 
 祝你好运！
 
-本次项目很简单，最大的困难居然在于vercel，这你受得了吗？本地跑没问题，放到vercel少了一个依赖，我找了一晚上终于发现了你（react-markdown）！！！
+本次项目很简单，最大的困难居然在于vercel，这你受得了吗？本地跑没问题，放到vercel少了一个依赖，我找了一晚上终于发现了你（react-markdown）也有可能是第一次接触pr，现在让我记忆深刻！！！
+vercel链接：hire-with-code-zh3x.vercel.app
